@@ -1,4 +1,4 @@
-I regot the information of the Hangzhou house prices from Anjuke website, with following information:
+I reconstructed the information of the Hangzhou house prices that i got from homework2 from Anjuke website, with following information:
 * house name
 * locations
 * areas
